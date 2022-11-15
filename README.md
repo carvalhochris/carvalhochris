@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in music technology
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Django Rest Framework
 - 💞️ I’m looking to collaborate on open source projects for music
 - 📫 How to reach me https://unlockyoursound.com/contact/
 
