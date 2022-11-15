@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carvalhochris
+- 👋 Hi, I’m Christopher
 - 👀 I’m interested in music technology
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects for music
