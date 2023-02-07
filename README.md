@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in music technology
 - 🌱 I’m currently working in React and Django Rest Framework
-- 💞️ I’m looking to collaborate on open source projects for music
+- 💞️ I’m looking to connect with others and contribute to open source
 - 📫 How to reach me https://unlockyoursound.com/contact/
 
 <!---
