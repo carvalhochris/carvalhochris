@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in the intersections of music and technology
-- 🌱 I’m currently working in React and Django Rest Framework
+- 🌱 I’m currently working in React, ChakraUI, and Django Rest Framework
 - 💞️ I’m looking to connect with others and contribute to open source
 - 📫 How to reach me https://unlockyoursound.com/contact/
 
