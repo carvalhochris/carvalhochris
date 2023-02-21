@@ -6,7 +6,7 @@
 
 ___
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,vscode,css,aws,cloudflare,django,github,js,html,postman,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,vscode,css,aws,cloudflare,django,github,js,html,postman,wordpress,git)](https://skillicons.dev)
 
 <!---
 carvalhochris/carvalhochris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
