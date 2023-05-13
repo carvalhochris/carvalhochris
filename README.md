@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in the intersections of music and technology
-- 🌱 I’m currently working in React, ChakraUI, and Django Rest Framework
-- 💞️ I’m looking to connect with others and contribute to open source
+- 🌱 Currently building [Songcards](http://beta.songcards.io/)
 - 📫 Wanna get in touch? Drop me [an email](mailto:chris@unlockyoursound.com)
 - 💖 Check out who [I am sponsoring <3](https://github.com/carvalhochris?tab=sponsoring)
 
