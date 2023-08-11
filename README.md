@@ -2,11 +2,9 @@
 - 👀 I’m interested in the intersections of music and technology
 - 🌱 Currently building [Songcards](http://beta.songcards.io/)
 - 📫 Wanna get in touch? Drop me [an email](mailto:chris@unlockyoursound.com)
-- 💖 Check out who [I am sponsoring <3](https://github.com/carvalhochris?tab=sponsoring)
-
 ___
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,react,vscode,css,aws,cloudflare,django,github,js,html,postman,wordpress,git,heroku,nextjs)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=py,react,vscode,css,aws,cloudflare,django,github,js,html,postman,wordpress,git,heroku,nextjs)](https://skillicons.dev)
 
 [![Songcards](https://beta.songcards.io/Songcards_B_White.svg)](https://beta.songcards.io/)
 
