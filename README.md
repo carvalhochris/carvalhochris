@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in the intersections of music and technology
 - 🌱 Currently building [Songcards](http://beta.songcards.io/)
+- 🚀 Proud to partner with Microsoft for Startups
 - 📫 Wanna get in touch? Drop me [an email](mailto:chris@unlockyoursound.com)
 ___
 
