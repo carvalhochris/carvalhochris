@@ -7,7 +7,7 @@ ___
 
 [![My Skills](https://skillicons.dev/icons?i=py,react,vscode,css,aws,cloudflare,django,github,js,html,postman,wordpress,git,heroku,nextjs)](https://skillicons.dev)
 
-[![Songcards](https://beta.songcards.io/sc_purple_black.png)](https://beta.songcards.io/)
+[![Songcards](https://songcardsmedia.s3.amazonaws.com/sc_pp.png)](https://beta.songcards.io/)
 
 <!---
 carvalhochris/carvalhochris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
