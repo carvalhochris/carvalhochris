@@ -5,7 +5,7 @@
 - 📫 Wanna get in touch? Drop me [an email](mailto:chris@unlockyoursound.com)
 ___
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,vscode,css,aws,typescript,django,github,js,html,postman,wordpress,git,heroku,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,vscode,typescript,django,github,js,html,git,heroku,nextjs,fastapi)](https://skillicons.dev)
 
 [![Songcards](https://songcardsmedia.s3.amazonaws.com/sc-pink-1000-500.png)](https://beta.songcards.io/)
 
