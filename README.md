@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I love building things with React and Django
-- 🌱 Currently building [Songcards](http://beta.songcards.io/)
+- 🌱 Currently building [Songcards](http://songcards.io/)
 - 🚀 Proud to partner with Microsoft for Startups
 - 📫 Wanna get in touch? Drop me [an email](mailto:chris@unlockyoursound.com)
 ___
